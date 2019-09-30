@@ -118,8 +118,9 @@ Ways:
 ```
 
 #### 项目结构：
-├── bundles
-│   └── client.html
+```
+.
+├── LICENSE
 ├── components
 │   ├── Comp.js
 │   ├── Layout.jsx
@@ -161,6 +162,4 @@ Ways:
 │   │   ├── index.js
 │   │   └── user.js
 │   └── store.js
-├── test
-│   └── test-redis.js
-└── test.css
+```

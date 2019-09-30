@@ -2,3 +2,9 @@ node_modules
 .next
 .vscode
 local-code
+/demos
+/bundles
+dump.rdb
+/test
+test.css
+package-lock.json
