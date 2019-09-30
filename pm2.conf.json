@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "next-pro",
+      "script": "./server.js",
+      "instances": 1,
+      "max_memory_restart": "1G",
+      "autorestart": true,
+      "watch": false,
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
